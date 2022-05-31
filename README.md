@@ -38,7 +38,7 @@ npm start
 Project is:  _progress_
 
 ## Inspiration
- [Spotify](https://www.youtube.com/c/TheNetNinja/featured](https://www.spotify.com/us/)
+ [Spotify](https://www.spotify.com/us/)
 
 
 ## Contact 

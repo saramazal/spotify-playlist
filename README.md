@@ -1,6 +1,5 @@
-# spotify-playlist
 # Project Name
-React Context Example App With Netlify and Vercel Deploy.
+Spotify Playlist. React App With Spotify API and Netlify Deployment.
 
 ## Table of contents
 * [General info](#general-info)

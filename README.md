@@ -13,7 +13,7 @@ Spotify Playlist. React App With Spotify API and Netlify Deployment.
 ## General info
 
 ## Screenshots
-![screenshot](https://github.com/saramazal/spotify-playlic.png)
+![screenshot](https://github.com/saramazal/spotify-playlist/blob/main/mazal-music.png)
 
 ## Technologies
 * [VSCode](https://code.visualstudio.com/)

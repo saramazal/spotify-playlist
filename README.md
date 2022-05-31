@@ -1,4 +1,4 @@
-# spotify-plailist
+# spotify-playlist
 # Project Name
 React Context Example App With Netlify and Vercel Deploy.
 
